@@ -1,0 +1,35 @@
+STATE,CULPABLE HOMICIDE NOT AMOUNTING TO MURDER,cluster_predict
+andhra pradesh,168,0
+arunachal pradesh,1,0
+assam,53,0
+bihar,328,1
+chhattisgarh,7,0
+goa,7,0
+gujarat,28,0
+haryana,56,0
+himachal pradesh,9,0
+jammu & kashmir,13,0
+jharkhand,47,0
+karnataka,103,0
+kerala,93,0
+madhya pradesh,82,0
+maharashtra,197,0
+manipur,1,0
+meghalaya,9,0
+mizoram,11,0
+nagaland,13,0
+odisha,7,0
+punjab,156,0
+rajasthan,131,0
+sikkim,2,0
+tamil nadu,42,0
+tripura,6,0
+uttar pradesh,1629,2
+uttarakhand,69,0
+west bengal,660,2
+a & n islands,4,0
+chandigarh,8,0
+d & n haveli,1,0
+daman & diu,1,0
+lakshadweep,1,0
+puducherry,21,0

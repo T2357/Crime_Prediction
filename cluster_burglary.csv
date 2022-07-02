@@ -1,0 +1,35 @@
+STATE,BURGLARY,cluster_predict
+andhra pradesh,8687.0,2.0
+arunachal pradesh,156.0,0.0
+assam,4749.0,2.0
+bihar,4196.0,2.0
+chhattisgarh,3339.0,2.0
+goa,337.0,0.0
+gujarat,3275.0,2.0
+haryana,7087.0,2.0
+himachal pradesh,1052.0,1.0
+jammu & kashmir,1538.0,1.0
+jharkhand,1186.0,1.0
+karnataka,5744.0,2.0
+kerala,1043.0,1.0
+madhya pradesh,6238.0,2.0
+maharashtra,18112.0,2.0
+manipur,57.0,0.0
+meghalaya,148.0,0.0
+mizoram,297.0,0.0
+nagaland,9.0,0.0
+odisha,3269.0,2.0
+punjab,3673.0,2.0
+rajasthan,2038.0,0.0
+sikkim,80.0,0.0
+tamil nadu,3222.0,2.0
+tripura,288.0,0.0
+uttar pradesh,4460.0,2.0
+uttarakhand,116.0,0.0
+west bengal,436.0,0.0
+andaman and nicobar,119.0,0.0
+chandigarh,176.0,0.0
+dadra,21.0,0.0
+daman,12.0,0.0
+lakshadweep,1.0,0.0
+puducherry,16.0,0.0
